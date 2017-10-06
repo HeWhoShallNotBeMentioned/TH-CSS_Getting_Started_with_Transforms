@@ -31,7 +31,7 @@
 
 /* -- Row 1 --------- */
 img {
-	transition: transform .7s;
+	transition: transform .7s cubic-bezier(.6,-0.44,.45,1.35);
 	/*transform-origin: 0 0;*/
 }
 
